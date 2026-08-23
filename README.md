@@ -9,7 +9,7 @@
 <p align="center"><strong>A machine that refuses to fool itself.</strong></p>
 
 <p align="center">
-  Independent research by Bo Brothers<br>
+  Independent research<br>
   Adversarial verification · Reproducible evidence · Honest nulls
 </p>
 
