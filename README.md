@@ -24,7 +24,7 @@
 
 I run Project Aletheia, an independent research lab. I use AI to propose ideas and attack weak points. Deterministic programs, frozen tests, and independent checks decide what survives.
 
-One result shows the model. I found eight records in NASA/JPL's close-approach database whose best estimate fell outside its own allowed range. JPL confirmed a software issue and corrected the records. The public repository contains the before-and-after evidence and a live checker.
+One result shows the model. I found [eight internally inconsistent records in NASA/JPL's close-approach database](https://github.com/0100001001101111/project-aletheia-jpl-close-approach-correction), reported them, and JPL confirmed the software issue and corrected them. The public repository contains the before-and-after evidence and a live checker.
 
 > AI can suggest the test. It cannot decide that it passed.
 
